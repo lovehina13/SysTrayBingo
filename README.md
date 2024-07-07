@@ -1,3 +1,3 @@
-# CMakeProject
+# SysTrayBingo
 
-CMake project including interfaces, libraries, executables, unit tests, documentation, installation and package.
+SysTrayBingo est une application graphique résidente permettant le comptage et le chronométrage d'actions.

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="iconAppointmentNew">appointment-new.svg</file>
+    </qresource>
+</RCC>
